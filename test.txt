@@ -1,3 +1,5 @@
 test file
 
-creating a new branch is quic & simplek
+creating a new branch is quic & simple
+
+switch to a new branch 'dev'k
